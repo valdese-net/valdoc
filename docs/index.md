@@ -1,3 +1,6 @@
+---
+title: Valdoc Home
+---
 # Valdoc
 
 <table>
